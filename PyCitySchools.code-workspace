@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "PyCitySchools",
+			"path": "."
+		},
+		{
+			"name": "Pandas-Challenge",
+			"path": "Resources/Pandas-Challenge"
+		}
+	],
+	"settings": {}
+}
